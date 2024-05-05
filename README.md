@@ -5,7 +5,7 @@ Ce projet utilise Ansible pour automatiser le déploiement et la gestion de la c
 ## Author 
 
 - [El Mahdi Bouaiti] = (https://github.com/elmahdibouaiti)
-- [Omar Moloudi] = (https://github.com/elmahdibouaiti)
+- [Omar Mouloudi] = (https://github.com/omarmld98)
 
 ## Prérequis
 
